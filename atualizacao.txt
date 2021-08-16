@@ -1,3 +1,4 @@
 Nova versão.
 Versão atualizada do arquivo.
 Treinando com arquivo txt.
+Configurando arquivo txt novamente.
