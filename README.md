@@ -2,7 +2,7 @@
 Repositório de versões e colaborações
 Alterando arquivo README.md
 
-lembrei do comando: git commit "atualizado"
+exemplo-branch
 
 
 
