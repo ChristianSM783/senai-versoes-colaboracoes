@@ -2,5 +2,5 @@
 Repositório de versões e colaborações
 Alterando arquivo README.md
 
-lembrei do comando: git status "atualizado"
+origin tarefa/minha-primeira-branch
 
